@@ -1,0 +1,2 @@
+# telusko
+Repository for pythonPractice
